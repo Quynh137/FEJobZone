@@ -41,6 +41,7 @@ const allowedOrigins = [
   'http://192.168.10.228:3000',
   'https://kldr50z4-3000.asse.devtunnels.ms',
   'https://ss0x2xqz-3000.asse.devtunnels.ms',
+  'https://your-frontend-domain.com'
 ];
 
 app.use(
